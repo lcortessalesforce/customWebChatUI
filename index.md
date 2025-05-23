@@ -140,10 +140,10 @@ h1 {
     </header>
     <main>
         <div class="hero">
-            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC_QFbTFMasUfnuKan4pWGlVr4700Fo7_9-w&s" alt="Agentforce Robot" class="robot-icon">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSC_QFbTFMasUfnuKan4pWGlVr4700Fo7_9-w&s" alt="Agentforce Robot" class="robot-icon" />
             <h1>How can <span class="brand">Agentforce</span> help?</h1>
             <div class="search-bar">
-                <input id="queryInput" type="text" placeholder='Ask questions like "How do I reset my password?"'>
+                <input id="queryInput" type="text" placeholder='Ask questions like "How do I reset my password?"'/>
                 <button class="search-btn" onclick="handleSearch()">🔍</button>
             </div>
         </div>
@@ -158,7 +158,7 @@ h1 {
         window.embeddedservice_bootstrap.init(
             '00DKj00000IUnS0',
             'SDO_Messaging_for_Web',
-            'https://storm-afedf835096def.my.site.com/ESWSDOMessagingInnovati1730124818682', {
+            'https://storm-545c0a32a5b777.my.site.com/ESWSDOMessagingforWeb1743708692869', {
                 scrt2URL: 'https://storm-545c0a32a5b777.my.salesforce-scrt.com'
             }
         );
