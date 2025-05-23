@@ -131,7 +131,7 @@ h1 {
     <header>
         <nav>
             <a href="#">Help</a>
-            <a href="#">Ask Agentforce</a>
+            <a href="https://lcortessalesforce.github.io/customWebChatUI">Ask Agentforce</a>
             <a href="#">Product Documentation</a>
             <a href="#">Trailhead Learning</a>
             <a href="#">My Cases</a>
